@@ -1,35 +1,81 @@
-## Getting Started
+## Furniture World
 
-Follow these instructions to set up and run the project on your local machine.
+- Live Link - [Live Website](https://furniturefield.herokuapp.com)
 
-### Prerequisites
-
-- Python 3.x
-- Pip (Python package manager)
-
-### Installation
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-Install the required dependencies:
-
-   ```bash
-    cd your-repo-name
-dig into your file:
+![](img/Screen%20Shot%202021-08-11%20at%206.53.42%20PM.png)
+![](img/Screen%20Shot%202021-08-11%20at%207.42.33%20PM.png)
+![](img/Screen%20Shot%202021-08-11%20at%207.43.37%20PM.png)
 
 
-pip install -r requirements.txt
+---
 
-Use code with caution. Learn more
+### Table of Contents
+<!-- You're sections headers will be used to reference location of destination. -->
 
- Run the scraper:
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [References](#references)
+- [License](#license)
+- [Author Info](#author-info)
 
-   ```bash
-python scraper.py
+---
+
+## Description
+
+A high-fidelity fully-fledged model eCommerce store designed to allow users to buy a variety of furniture online.
 
 
-Use code with caution. Learn more
+#### Technologies
 
- This README file provides additional information on how to install the required dependencies and run the scraper. This makes it easier for users to get started with the project without having to troubleshoot any technical issues.
+- Next.js
+- ReactStrap
+
+[Back To The Top](#read-me-template)
+
+---
+
+## How To Use
+
+#### Installation
+
+1. npm i
+
+
+2. npm start
+
+
+
+## License
+
+MIT License
+
+Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+---
+
+## Author Info
+
+- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica
+- Website - [Mustafa Mustafa](https://jamesqquick.com)
+- Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
+
+
