@@ -1,20 +1,16 @@
-## Furniture World
+# Python Web Scraper
 
-- Live Link - [Live Website](https://furniturefield.herokuapp.com)
-
-![](img/Screen%20Shot%202021-08-11%20at%206.53.42%20PM.png)
-![](img/Screen%20Shot%202021-08-11%20at%207.42.33%20PM.png)
-![](img/Screen%20Shot%202021-08-11%20at%207.43.37%20PM.png)
-
+![Screenshot 1](img/Screenshot1.png)
+![Screenshot 2](img/Screenshot2.png)
+![Screenshot 3](img/Screenshot3.png)
 
 ---
 
-### Table of Contents
-<!-- You're sections headers will be used to reference location of destination. -->
+## Table of Contents
 
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [References](#references)
+- [Technologies Used](#technologies-used)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -22,13 +18,14 @@
 
 ## Description
 
-A high-fidelity fully-fledged model eCommerce store designed to allow users to buy a variety of furniture online.
+This Python web scraper is designed to extract data from websites and can serve as a starting point for web scraping tasks. It currently extracts quotes and authors from the [Quotes to Scrape](http://quotes.toscrape.com/) website using the BeautifulSoup library.
 
 
 #### Technologies
 
-- Next.js
-- ReactStrap
+- Pythons
+- BeautifulSoup
+- Requests
 
 [Back To The Top](#read-me-template)
 
@@ -49,7 +46,7 @@ A high-fidelity fully-fledged model eCommerce store designed to allow users to b
 
 MIT License
 
-Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
+Copyright (c) [2023] [Mustafa Ali Aowd Mustafa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
