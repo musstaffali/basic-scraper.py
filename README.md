@@ -2,6 +2,10 @@
 
 
 
+https://github.com/musstaffali/basic-scraper.py/assets/63834636/aa7bec56-647a-46b7-96d5-3e338a15e257
+
+
+
 https://youtu.be/OF0eRZqcuCM
 
 ---
