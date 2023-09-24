@@ -35,7 +35,7 @@ This Python web scraper is designed to extract data from websites and can serve 
 
 #### Installation
 
-1.  git clone https://github.com/yourusername/your-repo-name.git
+1.  git clone https://github.com/musstaffali/basic-scraper.py.git
 
 
 2. cd your-repo-name
