@@ -35,10 +35,20 @@ This Python web scraper is designed to extract data from websites and can serve 
 
 #### Installation
 
-1. npm i
+1.  git clone https://github.com/yourusername/your-repo-name.git
 
 
-2. npm start
+2. cd your-repo-name
+
+
+2. python -m venv venv
+
+
+2. cd your-repo-name
+
+
+2. cd your-repo-name
+
 
 
 
