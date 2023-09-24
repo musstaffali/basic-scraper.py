@@ -89,7 +89,6 @@ SOFTWARE.
 ## Author Info
 
 - Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica
-- Website - [Mustafa Mustafa](https://jamesqquick.com)
 - Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
 
 
