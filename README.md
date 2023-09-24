@@ -88,7 +88,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica
+- Twitter - [@StaffFromAfrica](https://twitter.com/StaffFromAfrica)
 - Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
+- Github - [Mustafa Mustafa](https://github.com/musstaffali)
 
 
