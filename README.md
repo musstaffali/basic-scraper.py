@@ -1,11 +1,6 @@
 # Python Web Scraper
-<!-- 
-![Screenshot 1](img/sr.mov) -->
-[![Video Demo](img/Screenshot2.png)](https://youtu.be/OF0eRZqcuCM)
+[![Video Demo](img/sr.mov](https://youtu.be/OF0eRZqcuCM)
 
-
-![Screenshot 2](img/Screenshot2.png)
-![Screenshot 3](img/Screenshot3.png)
 
 https://youtu.be/OF0eRZqcuCM
 
