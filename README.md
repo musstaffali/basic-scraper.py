@@ -1,6 +1,6 @@
 # Python Web Scraper
 
-![Screenshot 1](img/Screenshot1.png)
+![Screenshot 1](img/sr.mov)
 ![Screenshot 2](img/Screenshot2.png)
 ![Screenshot 3](img/Screenshot3.png)
 
