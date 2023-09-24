@@ -16,8 +16,10 @@ Follow these instructions to set up and run the project on your local machine.
 Install the required dependencies:
 
    ```bash
-cd your-repo-name
-   ```bash
+    cd your-repo-name
+dig into your file:
+
+
 pip install -r requirements.txt
 
 Use code with caution. Learn more
