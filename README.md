@@ -53,6 +53,12 @@ This Python web scraper is designed to extract data from websites and can serve 
 
 
 
+#### Usage
+
+
+1. python scraper.py
+
+
 ## License
 
 MIT License
