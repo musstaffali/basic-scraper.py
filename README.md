@@ -1,13 +1,9 @@
 # Python Web Scraper
-[![Video Demo](img/sr.mov](https://youtu.be/OF0eRZqcuCM)
 
-
+https://github.com/musstaffali/basic-scraper.py/assets/63834636/48a7f790-fa27-4bad-98f7-666ac08426ea
 https://youtu.be/OF0eRZqcuCM
 
 ---
-
-https://github.com/musstaffali/basic-scraper.py/assets/63834636/48a7f790-fa27-4bad-98f7-666ac08426ea
-
 
 
 ## Table of Contents
