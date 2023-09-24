@@ -1,6 +1,10 @@
 # Python Web Scraper
 
-https://github.com/musstaffali/basic-scraper.py/assets/63834636/48a7f790-fa27-4bad-98f7-666ac08426ea
+
+
+https://github.com/musstaffali/basic-scraper.py/assets/63834636/f68b9ff3-cf45-4d29-a8fc-abc202f6716f
+
+
 https://youtu.be/OF0eRZqcuCM
 
 ---
