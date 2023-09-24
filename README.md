@@ -41,13 +41,14 @@ This Python web scraper is designed to extract data from websites and can serve 
 2. cd your-repo-name
 
 
-2. python -m venv venv
+3. python -m venv venv
 
 
-2. cd your-repo-name
+4.  . On Windows: venv\Scripts\activate
+    . On macOS and Linux: source venv/bin/activate
 
 
-2. cd your-repo-name
+5. pip install beautifulsoup4 requests
 
 
 
