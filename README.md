@@ -15,14 +15,16 @@ Follow these instructions to set up and run the project on your local machine.
    git clone https://github.com/yourusername/your-repo-name.git
 Install the required dependencies:
 
-Bash
+   ```bash
 cd your-repo-name
+   ```bash
 pip install -r requirements.txt
+
 Use code with caution. Learn more
 
  Run the scraper:
 
-Bash
+   ```bash
 python scraper.py
 
 
